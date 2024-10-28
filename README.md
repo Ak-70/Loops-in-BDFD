@@ -1,7 +1,7 @@
 > Before you can use any type of loops, you need to learn [how to escape code](Escaping.md).
 
 # Running a code for each item in a list.
-Imagine a list of numbers (1, 2, 3, ..., 10), and your goal is to get rid of every even number bigger than 3. This should be done with a “For Each Loop” because you do something to each item in a list (check if it’s even and bigger than 3). Unsafe method should not be used if the list is provided by a user.
+Imagine a list of numbers (1, 24, 7, 3, 19), and your goal is to get rid of every even number bigger than 7. This should be done with a “For Each Loop” because you do something to each item in a list (check if it’s even and bigger than 3). Unsafe method should not be used if the list is provided by a user.
 
 - [Safe method](For%20Each/Safe%20method.md)
 - [Unsafe method](For%20Each/Unsafe%20method.md)
