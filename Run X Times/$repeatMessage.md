@@ -1,4 +1,4 @@
-> Before you can use any type of loops, you need to learn [how to escape code](../main/Escaping.md).
+> Before you can use any type of loops, you need to learn [how to escape code](../Escaping.md).
 
 You can use the `$repeatMessage[Amount;Text]` function to repeat your code, but the limit for `Amount` is 10, so for amounts larger than 10, you need to use `$repeatMessage` multiple times.
 
