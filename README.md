@@ -3,14 +3,15 @@
 # Running a code for each item in a list.
 Imagine a list of numbers (1, 2, 3, ..., 10), and your goal is to get rid of every even number bigger than 3. This should be done with a “For Each Loop” because you do something to each item in a list (check if it’s even and bigger than 3). Unsafe method should not be used if the list is provided by a user.
 
-- [Safe method](For%20Each.md)
-- [Unsafe method](For%20Each%20(unsafe).md)
+- [Safe method](For%20Each/Safe%20method.md)
+- [Unsafe method](For%20Each/Unsafe%20method.md)
 
 # Running a code a specific amount of times.
 Imagine you want to list all even numbers from X to Y. This should be done with this loop because you will be executing a code a specific amount of times. I recommend the first method because it’s easier.
 
-- [`$repeatMessage` method](While-Loop.md)
-- [Other method](Run%20X%20Times%3A%20Advanced.md)
+- [`$sum` method](Run%20X%20Times/%24sum.md)
+- [`$repeatMessage` method](Run%20X%20Times/%24repeatMessage.md)
+- [Advanced method](Run%20X%20Times/Advanced%20method.md)
 
 # Running a code all the time.
 An example use case would be a reminder command or a giveaway command. \
