@@ -1,4 +1,4 @@
-> Before you can use any type of loops, you need to learn [how to escape code](../main/Escaping.md).
+> Before you can use any type of loops, you need to learn [how to escape code](../Escaping.md).
 
 :warning: This method is unsafe, meaning that if a piece of code makes its way to the input list would, it would get executed, which is highly dangerous if your input list is provided by the user (through `$message`, for example). If you’re dealing with user-provided lists, it is recommended to use [the safe method](../For%20Each/Safe%20method.md).
 
