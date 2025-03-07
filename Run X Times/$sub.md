@@ -4,7 +4,7 @@ You can use `$sub[1eX;1]` to get as many nines as you want. For example, `$sub[1
 
 This example deletes the last 3,800 non-pinned messages sent in the last 2 weeks:
 ```js
-$eval[$sum[1e38;%{DOL}%clear[100\]]]
+$eval[$replaceText[$sub[1e38;1];9;%{DOL}%clear[100\]]]
 ```
 
 (38 x 100 = 3,800)
