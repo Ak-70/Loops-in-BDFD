@@ -9,7 +9,7 @@ Imagine a list of numbers (1, 24, 7, 3, 19), and your goal is to get rid of ever
 # Running a code a specific amount of times.
 Imagine you want to list all even numbers from X to Y. This should be done with this loop because you will be executing a code a specific amount of times. I recommend the first method because it’s easier.
 
-- [`$sum` method](Run%20X%20Times/%24sum.md)
+- [`$sub` method](Run%20X%20Times/%24sub.md)
 - [`$repeatMessage` method](Run%20X%20Times/%24repeatMessage.md)
 - [Advanced method](Run%20X%20Times/Advanced%20method.md)
 
